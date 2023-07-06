@@ -1,11 +1,12 @@
-Game Ping Pong 
+# Python / PyGame 
+## Game Ping Pong 
 
-Player 1 - teclas A-Z 
-Player 2 - teclas Up - Down
+#### Player 1 - teclas A - Z 
+#### Player 2 - teclas Up - Down
 
-Partida 15 segundos
+###### Tiempo Maximo de juego 15 segundos
 
-El primero que meta 2 puntos
+###### Partida a 2 puntos
 
 ***
 
